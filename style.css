@@ -45,6 +45,9 @@ body{
     margin-right: 16px;
     font-size: 18px;
 }
+.placeholder::placeholder{
+    font-size: 15px;
+}
 
 .search button{
     border: 0;
