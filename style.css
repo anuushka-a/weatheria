@@ -99,10 +99,10 @@ body{
 }
 
 .humidity, .wind{
-    font-size: 15px;
+    font-size: 20px;
 }
 .humidity > p{
-   font-size: 15px;
+   font-size: 13px;
 }
 .wind > p{
    font-size: 15px
